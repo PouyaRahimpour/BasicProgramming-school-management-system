@@ -1,0 +1,3 @@
+what is the location of a particle moving in direction of x acsis with x = 2t+1 in time t=2s ? 1) 1    2) 3    3) 5    4) 7
+what is the speed of a particle moving in along x acsis with v = 3t-1 in time t=3s ? 1) 5    2) 6    3) 7    4) 8
+what is the what is the speed of a particle moving in along x acsis with v = 2t^2 -1 in t=2s ?  1) 5    2) 6    3) 7    4) 8

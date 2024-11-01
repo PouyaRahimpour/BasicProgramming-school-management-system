@@ -1,0 +1,16 @@
+***
+1212121
+23/1-1:30:30-6-4.
+what is the derivitive of f(x)=2x^2+3 ? 1) 2x    2) 3x    3) 4x    4) 5x*3
+what is derivitive of f(x)=5x+5 ? 1) 5    2) 6    3) 7    4) 8*1
+what is the area between curve f(x)=x^2 from 0 to 1 ? 1) 1/2    2) 1/3    3) 1/4    4)1/5*2
+what is the area beetween curve f(x)=x^3 and x acsis from 0 to 1? 1) 1/7    2) 1/6    3) 1/5    4)1/4*4
+END
+***
+7878787
+23/1-12:42:30-3-3.
+what is the location of a particle moving in direction of x acsis with x = 2t+1 in time t=2s ? 1) 1    2) 3    3) 5    4) 7*3
+what is the speed of a particle moving in along x acsis with v = 3t-1 in time t=3s ? 1) 5    2) 6    3) 7    4) 8*4
+what is the what is the speed of a particle moving in along x acsis with v = 2t^2 -1 in t=2s ?  1) 5    2) 6    3) 7    4) 8*3
+what is the area beetween curve f(x)=x^3 and x acsis from 0 to 1? 1) 1/7    2) 1/6    3) 1/5    4)1/4*4
+END
